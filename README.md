@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Helixjoe
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning DSA using C++
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects involving python
 - 📫 How to reach me through my email or instagram.
 
 <!---
